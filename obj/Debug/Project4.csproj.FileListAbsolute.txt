@@ -1,0 +1,8 @@
+Z:\Microsoft Visual Studio Расположение проекта\Project4\bin\Debug\Project4.exe.config
+Z:\Microsoft Visual Studio Расположение проекта\Project4\bin\Debug\Project4.exe
+Z:\Microsoft Visual Studio Расположение проекта\Project4\bin\Debug\Project4.pdb
+Z:\Microsoft Visual Studio Расположение проекта\Project4\obj\Debug\Project4.csproj.AssemblyReference.cache
+Z:\Microsoft Visual Studio Расположение проекта\Project4\obj\Debug\Project4.csproj.CoreCompileInputs.cache
+Z:\Microsoft Visual Studio Расположение проекта\Project4\obj\Debug\Project4.exe
+Z:\Microsoft Visual Studio Расположение проекта\Project4\obj\Debug\Project4.pdb
+Z:\Microsoft Visual Studio Расположение проекта\Project4\obj\Debug\Project4.exe.config
